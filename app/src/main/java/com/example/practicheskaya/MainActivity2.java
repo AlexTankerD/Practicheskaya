@@ -14,7 +14,7 @@ public class MainActivity2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
 
-        answers = (TextView)findViewById(R.id.textAnswers);
+        answers = (TextView)findViewById(R.id.Answers);
 
 
         Intent intent = getIntent();

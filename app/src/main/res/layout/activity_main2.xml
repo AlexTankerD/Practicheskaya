@@ -8,7 +8,7 @@
     android:background="@android:color/holo_green_light">
 
     <TextView
-        android:id="@+id/textAnswers"
+        android:id="@+id/Answers"
         android:layout_width="163dp"
         android:layout_height="58dp"
         android:text="TextView"
